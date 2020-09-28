@@ -1,0 +1,37 @@
+[
+    {"name": "ezpz",
+     "year_goal": 2000,
+     "win_cell_count": 15,
+     "start_cell_count": 10},
+
+    {"name": "normie",
+     "year_goal": 400,
+     "win_cell_count": 40,
+     "start_cell_count": 20},
+
+    {"name": "sweaty",
+     "year_goal": 400,
+     "win_cell_count": 100,
+     "start_cell_count": 50},
+
+    {"name": "meme",
+     "year_goal": 2000,
+     "win_cell_count": 300,
+     "start_cell_count": 100},
+
+    {"name": "tryhard",
+     "year_goal": 2000,
+     "win_cell_count": 500,
+     "start_cell_count": 50},
+
+    {"name": "gosper",
+     "year_goal": 4000,
+     "win_cell_count": 500,
+     "start_cell_count": 10},
+
+    {"name": "turing",
+     "year_goal": 1000,
+     "win_cell_count": 500,
+     "start_cell_count": 10}
+
+]
